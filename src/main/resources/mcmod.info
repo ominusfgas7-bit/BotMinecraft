@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "fastclickmod",
+    "name": "Fast Click Mod",
+    "description": "Multiplies manual mouse clicks with random delays.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Codex"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
